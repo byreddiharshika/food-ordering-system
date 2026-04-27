@@ -20,3 +20,11 @@ The Food Ordering System is a full-stack web application that allows users to br
 2. Navigate to the project folder
 3. Install dependencies
 4. Run the server:
+
+#Future Improvements
+- Payment gateway integration
+- Order tracking system
+- Admin dashboard
+
+#Author
+Byreddi Venkata Harshika
